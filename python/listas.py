@@ -36,7 +36,7 @@ monts.pop()
 print(monts)
 
 # Eliminar con pop una posición especifica
-monts.pop(0);
+monts.pop(0)
 print(monts)
 
 # Eliminar por nombre
