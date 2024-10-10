@@ -1,7 +1,6 @@
 """
 > Son listas inmutables -> no permiten añadir eliminar, mover, etc.
 > Permiten extraer porciones. pero será una nueva tupla.
-> No permiten busquedas (no index).
 > Sí permiten comprobar si un elemento se encuentra.
 >> ventajas
   -> Más rapidas.
